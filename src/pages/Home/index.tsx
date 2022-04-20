@@ -166,11 +166,11 @@ const Home = () => {
               </p>
             </Box>
             <h1 className="section-pad-top text-sm-center" data-aos="fade-up">
-              EraDex Tokenomics
+              Reflections for Token Holders
             </h1>
             <Box cssClasses={["col-md-8", "col-xxl-10", "mt-3", "mx-auto"]}>
               <p className="text-sm-center" data-aos="fade-up">
-              Eradex Chain has a total of 1,000,000,000,000 tokens. 55% of the tokens will be allocated to presale and initial exchange liquidity. 10%private sale, 10% of the tokens will be allocated to the team, 5% of the tokens will be allocated to strategic advisors and 20% of the tokens will be retained for the ecosystem, this would be allocated towards evolving the utility of the Eradex as well as project operations
+              EraDex  token holders will receive rewards in the $Cro for holding. For every buy and sell transactions, 2% and 3% respectively will be distributed directly to the wallets holding $ERA
               </p>
             </Box>
             <Flex
