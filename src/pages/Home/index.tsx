@@ -161,9 +161,8 @@ const Home = () => {
             </h1>
             <Box cssClasses={["col-md-8", "col-xxl-10", "mt-3", "mx-auto"]}>
               <p className="text-sm-center" data-aos="fade-up">
-              Eradex is a Finnish word meaning Income, the aim of the Eradex Chain token is to generate a continuous stream of income flow for Eradex token holders by instituting the following utilities and value add elements to the token. The Eradex token is built on the Binance Smart Chain (BEP20 Token Standard).
-
-              Eradexchain is the first decentralised token with price support feature embedded in the smart contract, that supports the price stability of the token.
+              EraDex is one of it's kind with lots of potentials. Almost all the token suffers from the inevitable valuation bubble ,inflation which is then followed by the burst and the impending
+              collapse of the price. This is why we have seen the mass adoption of static rewards, also known as reflection, a separate concept that seeks to eliminate the troubles caused by farming rewards.
               </p>
             </Box>
             <h1 className="section-pad-top text-sm-center" data-aos="fade-up">
@@ -266,18 +265,14 @@ const Home = () => {
               data-aos="flip-left"
               data-aos-duration="800"
             >
-              About Us
+              ABOUT ERADEX
             </h1>
             <Box
               cssClasses={["col-md-10", "text-sm-center", "mt-2", "mx-auto"]}
             >
               <p data-aos="fade-up">
-                Established in December 2021, Eradex is a team of friendly
-                professionals whose intention is to bring your intentions out of
-                detention. We develop and design your imaginations just as you
-                want it. You and us only have one job respectively. Your job is
-                to think it, our job is to construct it! We operate in
-                diversities so, be rest assured of your diverse desires...
+              The concept of EraDex is one of it's kind with lots of potentials. Almost all the token suffers from the inevitable valuation bubble ,inflation which is then followed by the burst and the impending
+              collapse of the price. This is why we have seen the mass adoption of static rewards, also known as reflection, a separate concept that seeks to eliminate the troubles caused by farming rewards
               </p>
             </Box>
             <Flex justifyContent="center" direction="row" alignItems="center">
