@@ -27,43 +27,43 @@ const Home = () => {
   const teams = [
     {
       img: TeamImage1,
-      title: "Hawk",
+      title: "Rara Lee",
       position: "Founder, Marketing, Developer",
     },
-    { img: TeamImage2, title: "Monkey", position: "Marketing Manager" },
-    { img: TeamImage3, title: "Monkey", position: "Design Leader" },
+    { img: TeamImage2, title: "Monkey shanti", position: "Contract Developer" },
+    { img: TeamImage3, title: "Cyrus", position: "Design Leader" },
   ];
 
   const blogs = [
     {
       img: BlogImage1,
-      title: "THE INSTABILITY OF CRYPTOCURRENCIES VERSUS THE STABILITY OF NFTs",
+      title: "THE INSTABILITY OF CRYPTOCURRENCIES VERSUS THE STABILITY OF Eradexs",
       description:
         "The second saga of a trilogy The personal ‘Elixir of Love’ Like the ‘Elixir of Love’, which Valentine left after his execution to make his blind lover see ...",
-      link: "https://Eradexnft.medium.com/the-instability-of-cryptocurrencies-versus-the-stability-of-nfts-5ec6b9f07e11",
+      link: "https://Eradex.medium.com/the-instability-of-cryptocurrencies-versus-the-stability-of-Eradexs-5ec6b9f07e11",
     },
     {
       img: BlogImage2,
-      title: "OUR STORY — EradexNFT",
+      title: "OUR STORY — Eradex",
       description:
         "A long time ago, in an era when mankind haven’t attained advanced civilization, mankind discovered a set of strange, strong and shiny crystals and they named these beautiful crystals DIAMONDS (derived ...",
-      link: "https://Eradexnft.medium.com/our-story-Eradexnft-57ad52b18",
+      link: "https://Eradex.medium.com/our-story-Eradex-57ad52b18",
     },
     {
       img: BlogImage3,
       title:
-        "Love is Purity: Let’s Celebrate the ‘Elixir of Love’ Collection by EradexNFT",
+        "Love is Purity: Let’s Celebrate the ‘Elixir of Love’ Collection by Eradex",
       description:
         "The first saga of a TRILOGY! The Sweet Love Story of St Valentine and the Cruelty on Him…. Just like diamonds, love is also about purity and toughness. One such story of toughness and love ...",
-      link: "https://Eradexnft.medium.com/love-is-purity-lets-celebrate-the-elixir-of-love-collection-by-Eradexnft-236b8d2adbf1",
+      link: "https://Eradex.medium.com/love-is-purity-lets-celebrate-the-elixir-of-love-collection-by-Eradex-236b8d2adbf1",
     },
   ];
 
   const faqs = [
     {
-      title: "Where  and how can I buy EradexNFT?",
+      title: "Where  and how can I buy Eradex?",
       description:
-        "Our NFTs would be available in our marketplace as well as Opensea. You can make purchases there",
+        "Our Eradexs would be available in our marketplace as well as Opensea. You can make purchases there",
     },
     {
       title: "How can I get whitelisted?",
@@ -72,7 +72,7 @@ const Home = () => {
     },
     {
       title: "When is the Mint Date?",
-      description: "The Mint Date for our NFTs is on 14th of February, 2022.",
+      description: "The Mint Date for our Eradexs is on 14th of February, 2022.",
     },
     {
       title: "What is the Mint Price?",
@@ -80,9 +80,9 @@ const Home = () => {
         "The mint price is set at 0.5 ETH Howeveer, we have giveaway offers that gives a great discount on mint price. See how to get whitelisted to know how to get these offers.",
     },
     {
-      title: "Which Markets would the NFTs be listed?",
+      title: "Which Markets would the Eradexs be listed?",
       description:
-        "The NFTs would be listed on Opeansea, Rarible and all Blockchain marketplaces",
+        "The Eradexs would be listed on Opeansea, Rarible and all Blockchain marketplaces",
     },
   ];
 
@@ -167,7 +167,7 @@ const Home = () => {
               </p>
             </Box>
             <h1 className="section-pad-top text-sm-center" data-aos="fade-up">
-              Token Economics
+              EraDex Tokenomics
             </h1>
             <Box cssClasses={["col-md-8", "col-xxl-10", "mt-3", "mx-auto"]}>
               <p className="text-sm-center" data-aos="fade-up">
@@ -325,7 +325,7 @@ const Home = () => {
             </Box>
           </Flex>
         </div>
-        <Box cssClasses={["container", "mt-4"]}>
+        {/* <Box cssClasses={["container", "mt-4"]}>
           <div className="section-pad-top" id="blog">
             <h1
               className="mt-2 text-center"
@@ -364,7 +364,7 @@ const Home = () => {
             </Box>
             <div className="mt-4 text-center pt-4" data-aos="fade-up">
               <a
-                href="https://Eradexnft.medium.com/"
+                href="https://Eradex.medium.com/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -372,8 +372,8 @@ const Home = () => {
               </a>
             </div>
           </div>
-        </Box>
-        <Box cssClasses={["container"]}>
+        </Box> */}
+        {/* <Box cssClasses={["container"]}>
           <div className="section-pad-top" id="faqs">
             <Flex direction={"row"} justifyContent="space-between">
               <Box cssClasses={["col-md-5", "col-12"]}>
@@ -391,7 +391,7 @@ const Home = () => {
               </Box>
             </Flex>
           </div>
-        </Box>
+        </Box> */}
       </Box>
     </>
   );

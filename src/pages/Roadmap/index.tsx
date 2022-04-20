@@ -21,7 +21,7 @@ const Roadmap = () => {
           completed: true,
         },
         {
-          label: "Mint First NFTs",
+          label: "Mint First Eradexs",
           completed: false,
         },
         {
@@ -43,7 +43,7 @@ const Roadmap = () => {
           completed: false,
         },
         {
-          label: "Mint NFTs",
+          label: "Mint Eradexs",
           completed: false,
         },
         {
@@ -55,7 +55,7 @@ const Roadmap = () => {
           completed: false,
         },
         {
-          label: "NFT Edition",
+          label: "Eradex Edition",
           completed: false,
         },
       ],
@@ -69,7 +69,7 @@ const Roadmap = () => {
           completed: false,
         },
         {
-          label: "Mint NFTs",
+          label: "Mint Eradexs",
           completed: false,
         },
         {

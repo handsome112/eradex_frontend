@@ -116,7 +116,7 @@ const Mint = () => {
             >
                 <h1>Mint</h1>
                 <p className="mt-1 text-center">
-                    Our collection of unique NFTs that can be bought and sold on our
+                    Our collection of unique Eradexs that can be bought and sold on our
                     marketplace..
                 </p>
                 <Box cssClasses={["mt-4", "pt-4"]}>
